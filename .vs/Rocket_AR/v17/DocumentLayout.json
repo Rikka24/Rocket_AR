@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\vnika\\Rocket_AR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF5EB8A1-B2DD-CD52-5406-A71F0AB6D1A1}|Assembly-CSharp.csproj|c:\\users\\vnika\\rocket_ar\\assets\\scripts\\rocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF5EB8A1-B2DD-CD52-5406-A71F0AB6D1A1}|Assembly-CSharp.csproj|c:\\users\\vnika\\rocket_ar\\assets\\scripts\\simplearplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5EB8A1-B2DD-CD52-5406-A71F0AB6D1A1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\simplearplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5EB8A1-B2DD-CD52-5406-A71F0AB6D1A1}|Assembly-CSharp.csproj|C:\\Users\\vnika\\Rocket_AR\\assets\\scripts\\rocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF5EB8A1-B2DD-CD52-5406-A71F0AB6D1A1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SimpleARPlacement.cs",
+              "DocumentMoniker": "C:\\Users\\vnika\\Rocket_AR\\Assets\\Scripts\\SimpleARPlacement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleARPlacement.cs",
+              "ToolTip": "C:\\Users\\vnika\\Rocket_AR\\Assets\\Scripts\\SimpleARPlacement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SimpleARPlacement.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwDUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T00:20:17.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RocketController.cs",
               "DocumentMoniker": "C:\\Users\\vnika\\Rocket_AR\\Assets\\Scripts\\RocketController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RocketController.cs",
@@ -38,8 +55,7 @@
               "RelativeToolTip": "Assets\\Scripts\\RocketController.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAAACkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T19:41:26.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-14T19:41:26.645Z"
             }
           ]
         },
